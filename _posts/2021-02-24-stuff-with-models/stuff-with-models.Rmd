@@ -22,7 +22,7 @@ knitr::opts_chunk$set(dev = "ragg_png")
 
 Nice plot down below!
 
-```{r message = FALSE}
+```{r message = FALSE, layout = "l-page"}
 library(tidyverse)
 
 ggplot(mtcars, aes(disp, mpg)) +
