@@ -1,0 +1,16 @@
+---
+title: "About this blog"
+description: |
+  Very cool blog!
+---
+
+Let's try it out!
+
+![]()
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
