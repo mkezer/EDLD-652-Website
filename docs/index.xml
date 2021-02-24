@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>https://mkezer.github.io/EDLD-652-Website/</link>
+    <atom:link href="https://mkezer.github.io/EDLD-652-Website/index.xml" rel="self" type="application/rss+xml"/>
+    <description>My Blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Stuff with models</title>
+      <dc:creator>Murat Kezer</dc:creator>
+      <link>https://mkezer.github.io/EDLD-652-Website/posts/2021-02-24-stuff-with-models</link>
+      <description>A short description of the post.</description>
+      <category>visualization</category>
+      <category>modeling</category>
+      <guid>https://mkezer.github.io/EDLD-652-Website/posts/2021-02-24-stuff-with-models</guid>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://mkezer.github.io/EDLD-652-Website/posts/2021-02-24-stuff-with-models/stuff-with-models_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Welcome to My Blog</title>
+      <dc:creator>Murat Kezer</dc:creator>
+      <link>https://mkezer.github.io/EDLD-652-Website/posts/welcome</link>
+      <description>Welcome to our new blog, My Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <category>visualization</category>
+      <guid>https://mkezer.github.io/EDLD-652-Website/posts/welcome</guid>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
